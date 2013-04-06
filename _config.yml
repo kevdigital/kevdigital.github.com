@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : KevinLeugers.me
-tagline: Developing for the Interwebs
+tagline: thoughts on web development and other interests
 author :
   name : kevin leugers
   email : kevin.leugers@gmail.com
