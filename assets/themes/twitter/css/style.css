@@ -1,6 +1,8 @@
 /* Override some defaults */
 html, body {
   background-color: #7D807D;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
 
 li {
@@ -16,13 +18,13 @@ li {
 
 .navbar .brand {
   font-size: 35px;
-  color: #eee;
+  color: #576F57;
   font-family: vera-sans, serif;
   font-weight: bold;
 }
 
 .navbar-inner {
-  background-color: #7D807D;
+  background-color: #eee;
   -webkit-box-shadow: 0 2px 4px;
   margin-bottom: 6px;
   padding-bottom: 1px;
@@ -36,6 +38,10 @@ li {
 .navbar .nav > li > a {
   padding-top: 20px;
   color: #3C3838;
+}
+
+.navbar .nav > li > a:hover {
+  color: #2AB03F;
 }
 
 .navbar .nav .active>a, .navbar .nav .active>a:hover {
@@ -62,7 +68,7 @@ footer .contact {
 
 /* The white background content wrapper */
 .content {
-	font-size: 15px;
+	font-size: 18px;
   line-height: 23px;
   background-color: #eee;
   padding: 30px;
@@ -76,14 +82,17 @@ footer .contact {
 }
 
 .content p{
-	font-size: 15px;
+	font-size: 20px;
 	line-height: 25px;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
 }
 
 .content h1 {
   padding:10px 10px;
   background: #eee;
   border-radius:5px;
+  color: #576F57;
 }
 
 .content h2 {
@@ -100,6 +109,7 @@ footer .contact {
   line-height: 38px;
   color: #576F57;
 }
+
 
 /* sidebar styling */
 .sidebar {
