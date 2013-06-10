@@ -1,6 +1,6 @@
 /* Override some defaults */
 html, body {
-  background-color: #BDBDBD;
+  background-color: #eee;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
@@ -21,6 +21,7 @@ li {
   color: #576F57;
   font-family: vera-sans, serif;
   font-weight: bold;
+  font-style: italic;
 }
 
 .navbar-inner {
@@ -82,9 +83,14 @@ footer .contact {
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
 
+.content a{
+  color: black;
+  font-weight: 400;
+}
+
 .content p{
-	font-size: 20px;
-	line-height: 25px;
+	font-size: 18px;
+	line-height: 28px;
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
 }
@@ -126,10 +132,10 @@ footer .contact {
 .sidebar h2 {
   margin:10px 0 20px 0px;
     padding:0px 7px;
-    background:#576F57;
+    background:#eee;
     border-radius:5px;
     font-size: 18px;
-    color: ##212721;
+    color: #576F57;
 }
 
 .row-fluid > .span2 {
