@@ -20,6 +20,7 @@ tagline:
  <h2>Useful Links</h2>
 <br>
 <ul class="posts">
+  <li><span>16 Aug 2013</span> &raquo; <a href="http://railscasts.com">Rails Casts</a></li>
   <li><span>30 Dec 2012</span> &raquo; <a href="http://huangzhimin.com/">Richard Huang's blog</a></li>
   <li><span>29 Dec 2012</span> &raquo; <a href="http://www.reddit.com/r/webdev">Reddit/r/webdev</a></li>
   <li><span>29 Dec 2012</span> &raquo; <a href="http://ruby.railstutorial.org">Ruby on Rails Tutorial</a></li>
