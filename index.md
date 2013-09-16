@@ -20,11 +20,11 @@ tagline:
  <h2>Useful Links</h2>
 <br>
 <ul class="posts">
-  <li><span>16 Aug 2013</span> &raquo; <a href="http://railscasts.com">Rails Casts</a></li>
-  <li><span>30 Dec 2012</span> &raquo; <a href="http://huangzhimin.com/">Richard Huang's blog</a></li>
-  <li><span>29 Dec 2012</span> &raquo; <a href="http://www.reddit.com/r/webdev">Reddit/r/webdev</a></li>
-  <li><span>29 Dec 2012</span> &raquo; <a href="http://ruby.railstutorial.org">Ruby on Rails Tutorial</a></li>
-  <li><span>29 Dec 2012</span> &raquo; <a href="http://guides.rubyonrails.org">Ruby on Rails Guides</a></li>
-  <li><span>29 Dec 2012</span> &raquo; <a href="http://www.udacity.com">Udacity - free online university</a></li>
+  <li><a href="http://railscasts.com">Rails Casts</a> &raquo; very helpful screencasts on many different Ruby on Rails related topics</li>
+  <li><a href="http://huangzhimin.com/">Richard Huang's blog</a> &raquo; Well respected developer with interesting blog posts</li>
+  <li><a href="http://www.reddit.com/r/webdev">Reddit/r/webdev</a> &raquo; Reddit's web dev community</li>
+  <li><a href="http://ruby.railstutorial.org">Ruby on Rails Tutorial</a> &raquo; Michael Hartle's excellent guide for Ruby on Rails</li>
+  <li><a href="http://guides.rubyonrails.org">Ruby on Rails Guides</a> &raquo; The official Ruby on Rails docs</li>
+  <li><a href="http://www.udacity.com">Udacity - free online university</a> &raquo; I owe Udacity a lot in getting me started in web development. Their courses are fantastic. A great way to expand your knowledge</li>
 </ul>
 
