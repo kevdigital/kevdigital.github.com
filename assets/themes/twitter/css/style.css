@@ -49,8 +49,6 @@ li {
 }
 
 .container-fluid {
-  padding-left: 20%;
-  padding-right: 20%;
 }
 
 /* footer tweaks */
@@ -61,8 +59,6 @@ li {
   text-align: center; /* center align it with the container 
 } */
 footer .contact {
-      float: left;
-      margin-right: 3em;
     }
 
       
